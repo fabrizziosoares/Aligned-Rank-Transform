@@ -1,5 +1,5 @@
 # Aligned-Rank-Transform
-Aligned Rank Transoform in Matlab
+Aligned Rank Transform in Matlab
 
 This function is used for calculating aligned rank transform in matlab. the input matrix should have 2 categorical variable and a dependent variable 2 columns for categorical variable and column 3 is for dependent variable.
 
