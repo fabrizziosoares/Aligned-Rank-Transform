@@ -1,4 +1,4 @@
-function Raligned = Aligned_Rank_Transorm(Arg)
+function Raligned = Aligned_Rank_Transform(Arg)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   INPUT: Arg: Arg should be a n * 3 matrix
 %          columns of Arg:
